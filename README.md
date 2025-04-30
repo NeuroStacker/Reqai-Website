@@ -20,7 +20,7 @@ ReqAize is a web application with Jira integration capabilities that allows user
 ### Installation
 1. Clone the repository
    ```
-   git clone https://github.com/Vitthal-choudhary/ReqAize-Website
+   git clone https://github.com/NeuroStacker/Reqai-Website
    cd ReqAize-Website
    ```
 
