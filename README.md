@@ -90,8 +90,8 @@ Our [Privacy Policy](https://github.com/Vitthal-choudhary/privacy-policy) explai
 
 ## Contact
 For questions or support, contact:
-- Email: vitthal.choudhary.14@gmail.com
-- GitHub: [https://github.com/Vitthal-choudhary](https://github.com/Vitthal-choudhary)
+- Email: ronakgupta730@gmail.com
+- GitHub: https://github.com/NeuroStacker
 
 ## License
 This project is available for use under the MIT license.
